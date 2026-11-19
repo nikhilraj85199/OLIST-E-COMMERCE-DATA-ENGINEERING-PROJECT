@@ -1,0 +1,15 @@
+{
+	"name": "adf-olist-nikhil",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "03347829-52cd-4ad1-b2ca-603d782ae798",
+		"tenantId": "99e34304-7466-46e7-8878-712a837c0d24"
+	}
+}
